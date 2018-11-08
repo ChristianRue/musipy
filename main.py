@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        music.py
+# Name:        main.py
 # Purpose:     Algorithmic music generation, outputs a MIDI file
 #
 # Author:      Christian Rüschoff <c_rue) at (web . de>
