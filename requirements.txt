@@ -1,0 +1,2 @@
+musipy
+-e git+https://github.com/MarkCWirt/MIDIUtil/blob/develop/src/midiutil/#egg=MidiFile.py
